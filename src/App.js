@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>Esta es una prueba de subir actualizacion a repositorio en git hub</p>
         <a
           className="App-link"
           href="https://reactjs.org"
